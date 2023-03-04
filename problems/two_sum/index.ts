@@ -1,6 +1,6 @@
 /**
  * There are solution for https://leetcode.com/problems/two-sum/
- * We can use hashmap for collect info about each position of array
+ * We can use map to collect info about each position of array
  */
 
 function twoSum(nums: number[], target: number) {
