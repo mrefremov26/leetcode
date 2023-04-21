@@ -1,6 +1,5 @@
 /**
  * https://leetcode.com/problems/generate-parentheses
- *
  */
 function generateParenthesis(n: number): string[] {
     const result: string[] = [];
